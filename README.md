@@ -3,6 +3,6 @@ My github.io portfolio website
 
 
 
-Completed projects: https://owenzo-231.github.io/Projects.html
+Completed projects: <a href="https://owenzo-231.github.io/Projects.html">Projects</a>
 
-Future work: https://owenzo-231.github.io/Future-Work.html
+Future work: <a href="https://owenzo-231.github.io/Future-Work.html">Future-Work</a>
