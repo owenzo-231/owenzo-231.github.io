@@ -1,3 +1,3 @@
 # Future Work
 
-A place to put things that I will be working on in the future
+Right now I am working on a research project about exploring the latent space of compression algorithms and generative AI.
